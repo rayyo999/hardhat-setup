@@ -1,6 +1,6 @@
 import '@nomicfoundation/hardhat-toolbox';
-import { HardhatUserConfig } from 'hardhat/config';
 import 'dotenv/config';
+import { HardhatUserConfig } from 'hardhat/config';
 // import tasks!!!!
 import './tasks/block-number';
 
